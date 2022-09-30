@@ -12,3 +12,7 @@ Main/Master branch!
 A change to illustrate a PUSH to GitHub!
 
 A change to illustrate a PULL from GitHub!!
+
+A change to the CLONED README.md file by
+Collaborator1.
+
